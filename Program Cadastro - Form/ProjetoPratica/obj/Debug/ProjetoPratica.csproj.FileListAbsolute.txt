@@ -1,0 +1,10 @@
+C:\Users\janap\source\repos\ProjetoPratica\ProjetoPratica\bin\Debug\ProjetoPratica.exe.config
+C:\Users\janap\source\repos\ProjetoPratica\ProjetoPratica\bin\Debug\ProjetoPratica.exe
+C:\Users\janap\source\repos\ProjetoPratica\ProjetoPratica\bin\Debug\ProjetoPratica.pdb
+C:\Users\janap\source\repos\ProjetoPratica\ProjetoPratica\obj\Debug\ProjetoPratica.csprojAssemblyReference.cache
+C:\Users\janap\source\repos\ProjetoPratica\ProjetoPratica\obj\Debug\ProjetoPratica.Form1.resources
+C:\Users\janap\source\repos\ProjetoPratica\ProjetoPratica\obj\Debug\ProjetoPratica.Properties.Resources.resources
+C:\Users\janap\source\repos\ProjetoPratica\ProjetoPratica\obj\Debug\ProjetoPratica.csproj.GenerateResource.cache
+C:\Users\janap\source\repos\ProjetoPratica\ProjetoPratica\obj\Debug\ProjetoPratica.csproj.CoreCompileInputs.cache
+C:\Users\janap\source\repos\ProjetoPratica\ProjetoPratica\obj\Debug\ProjetoPratica.exe
+C:\Users\janap\source\repos\ProjetoPratica\ProjetoPratica\obj\Debug\ProjetoPratica.pdb
